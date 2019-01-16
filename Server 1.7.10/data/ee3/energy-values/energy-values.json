@@ -1,0 +1,8021 @@
+[
+  {
+    "fluidstack": {
+      "name": "aerotheum"
+    },
+    "energyValue": 0.197
+  },
+  {
+    "fluidstack": {
+      "name": "coal"
+    },
+    "energyValue": 0.32
+  },
+  {
+    "fluidstack": {
+      "name": "cryotheum"
+    },
+    "energyValue": 0.194
+  },
+  {
+    "fluidstack": {
+      "name": "ender"
+    },
+    "energyValue": 4.096
+  },
+  {
+    "fluidstack": {
+      "name": "glowstone"
+    },
+    "energyValue": 1.536
+  },
+  {
+    "fluidstack": {
+      "name": "lava"
+    },
+    "energyValue": 0.064
+  },
+  {
+    "fluidstack": {
+      "name": "milk"
+    },
+    "energyValue": 0.064
+  },
+  {
+    "fluidstack": {
+      "name": "mushroomsoup"
+    },
+    "energyValue": 0.07
+  },
+  {
+    "fluidstack": {
+      "name": "redstone"
+    },
+    "energyValue": 0.32
+  },
+  {
+    "fluidstack": {
+      "name": "water"
+    },
+    "energyValue": 0.001
+  },
+  {
+    "orestack": {
+      "name": "cobblestone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "orestack": {
+      "name": "dustRedstone"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "orestack": {
+      "name": "dyeBlack"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeBlue"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeBrown"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeCyan"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeGray"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeGreen"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeLightBlue"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeLightGray"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeLime"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeMagenta"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeOrange"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyePink"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyePurple"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeRed"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeWhite"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeYellow"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "gemDiamond"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "orestack": {
+      "name": "gemEmerald"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "orestack": {
+      "name": "gemLapis"
+    },
+    "energyValue": 864.0
+  },
+  {
+    "orestack": {
+      "name": "gemQuartz"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "orestack": {
+      "name": "ingotGold"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "orestack": {
+      "name": "ingotIron"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "orestack": {
+      "name": "logWood"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "orestack": {
+      "name": "oreCoal"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "orestack": {
+      "name": "oreDiamond"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "orestack": {
+      "name": "oreEmerald"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "orestack": {
+      "name": "oreGold"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "orestack": {
+      "name": "oreIron"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "orestack": {
+      "name": "oreLapis"
+    },
+    "energyValue": 864.0
+  },
+  {
+    "orestack": {
+      "name": "oreQuartz"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "orestack": {
+      "name": "oreRedstone"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "orestack": {
+      "name": "plankWood"
+    },
+    "energyValue": 8.0
+  },
+  {
+    "orestack": {
+      "name": "record"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "orestack": {
+      "name": "sand"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "orestack": {
+      "name": "sandstone"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "orestack": {
+      "name": "slabWood"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "orestack": {
+      "name": "slimeball"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "orestack": {
+      "name": "stairWood"
+    },
+    "energyValue": 12.0
+  },
+  {
+    "orestack": {
+      "name": "stickWood"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "orestack": {
+      "name": "stone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "orestack": {
+      "name": "treeLeaves"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "orestack": {
+      "name": "treeSapling"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:grass"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dirt",
+      "metaValue": 32767
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cobblestone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:planks"
+    },
+    "energyValue": 0.001
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:sand",
+      "metaValue": 32767
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:gravel"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:glass",
+      "metaValue": 32767
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:lapis_block"
+    },
+    "energyValue": 7776.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dispenser"
+    },
+    "energyValue": 87.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:sandstone",
+      "metaValue": 32767
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:noteblock"
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:golden_rail"
+    },
+    "energyValue": 2054.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:detector_rail"
+    },
+    "energyValue": 261.667
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:sticky_piston"
+    },
+    "energyValue": 340.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:web"
+    },
+    "energyValue": 12.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:tallgrass",
+      "metaValue": 32767
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:deadbush"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:piston"
+    },
+    "energyValue": 316.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wool"
+    },
+    "energyValue": 48.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wool",
+      "metaValue": 1
+    },
+    "energyValue": 50.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wool",
+      "metaValue": 2
+    },
+    "energyValue": 50.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wool",
+      "metaValue": 3
+    },
+    "energyValue": 50.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wool",
+      "metaValue": 4
+    },
+    "energyValue": 50.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wool",
+      "metaValue": 5
+    },
+    "energyValue": 50.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wool",
+      "metaValue": 6
+    },
+    "energyValue": 50.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wool",
+      "metaValue": 7
+    },
+    "energyValue": 50.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wool",
+      "metaValue": 8
+    },
+    "energyValue": 50.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wool",
+      "metaValue": 9
+    },
+    "energyValue": 50.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wool",
+      "metaValue": 10
+    },
+    "energyValue": 50.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wool",
+      "metaValue": 11
+    },
+    "energyValue": 50.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wool",
+      "metaValue": 12
+    },
+    "energyValue": 50.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wool",
+      "metaValue": 13
+    },
+    "energyValue": 50.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wool",
+      "metaValue": 14
+    },
+    "energyValue": 50.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wool",
+      "metaValue": 15
+    },
+    "energyValue": 50.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:yellow_flower"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:red_flower",
+      "metaValue": 32767
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:brown_mushroom"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:red_mushroom"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:gold_block"
+    },
+    "energyValue": 18432.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:iron_block"
+    },
+    "energyValue": 2304.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:double_stone_slab"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:double_stone_slab",
+      "metaValue": 8
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:double_stone_slab",
+      "metaValue": 9
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone_slab"
+    },
+    "energyValue": 0.5
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone_slab",
+      "metaValue": 1
+    },
+    "energyValue": 2.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone_slab",
+      "metaValue": 3
+    },
+    "energyValue": 0.5
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone_slab",
+      "metaValue": 4
+    },
+    "energyValue": 128.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone_slab",
+      "metaValue": 5
+    },
+    "energyValue": 0.5
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone_slab",
+      "metaValue": 6
+    },
+    "energyValue": 2.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone_slab",
+      "metaValue": 7
+    },
+    "energyValue": 512.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:brick_block"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:tnt"
+    },
+    "energyValue": 964.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:bookshelf"
+    },
+    "energyValue": 214.5
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:mossy_cobblestone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:obsidian"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:torch"
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:oak_stairs"
+    },
+    "energyValue": 0.002
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:chest"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:diamond_block"
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:crafting_table"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:furnace"
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:ladder"
+    },
+    "energyValue": 9.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:rail"
+    },
+    "energyValue": 96.25
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone_stairs"
+    },
+    "energyValue": 1.5
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:lever"
+    },
+    "energyValue": 5.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone_pressure_plate"
+    },
+    "energyValue": 2.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wooden_pressure_plate"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:redstone_torch"
+    },
+    "energyValue": 36.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone_button"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:snow_layer"
+    },
+    "energyValue": 0.125
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:ice"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:snow"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cactus"
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:clay"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:jukebox"
+    },
+    "energyValue": 8256.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:fence"
+    },
+    "energyValue": 12.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:pumpkin"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:netherrack"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:soul_sand"
+    },
+    "energyValue": 49.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:glowstone"
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:lit_pumpkin"
+    },
+    "energyValue": 152.125
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_glass"
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_glass",
+      "metaValue": 1
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_glass",
+      "metaValue": 2
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_glass",
+      "metaValue": 3
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_glass",
+      "metaValue": 4
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_glass",
+      "metaValue": 5
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_glass",
+      "metaValue": 6
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_glass",
+      "metaValue": 7
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_glass",
+      "metaValue": 8
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_glass",
+      "metaValue": 9
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_glass",
+      "metaValue": 10
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_glass",
+      "metaValue": 11
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_glass",
+      "metaValue": 12
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_glass",
+      "metaValue": 13
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_glass",
+      "metaValue": 14
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_glass",
+      "metaValue": 15
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:trapdoor"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stonebrick",
+      "metaValue": 32767
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:iron_bars"
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:glass_pane"
+    },
+    "energyValue": 0.375
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:melon_block"
+    },
+    "energyValue": 16.683
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:vine"
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:fence_gate"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:brick_stairs"
+    },
+    "energyValue": 384.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone_brick_stairs"
+    },
+    "energyValue": 1.5
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:mycelium"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:waterlily"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:nether_brick"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:nether_brick_fence"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:nether_brick_stairs"
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:enchanting_table"
+    },
+    "energyValue": 16695.5
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:end_stone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:redstone_lamp"
+    },
+    "energyValue": 1664.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:sandstone_stairs"
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:ender_chest"
+    },
+    "energyValue": 1920.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:tripwire_hook"
+    },
+    "energyValue": 134.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:emerald_block"
+    },
+    "energyValue": 73728.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:beacon"
+    },
+    "energyValue": 24773.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cobblestone_wall"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cobblestone_wall",
+      "metaValue": 1
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wooden_button"
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:anvil"
+    },
+    "energyValue": 7936.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:anvil",
+      "metaValue": 1
+    },
+    "energyValue": 5290.667
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:anvil",
+      "metaValue": 2
+    },
+    "energyValue": 2645.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:trapped_chest"
+    },
+    "energyValue": 198.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:light_weighted_pressure_plate"
+    },
+    "energyValue": 4096.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "energyValue": 512.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:daylight_detector"
+    },
+    "energyValue": 783.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:redstone_block"
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:hopper"
+    },
+    "energyValue": 1344.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:quartz_block"
+    },
+    "energyValue": 1024.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:quartz_block",
+      "metaValue": 1
+    },
+    "energyValue": 1024.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:quartz_block",
+      "metaValue": 2
+    },
+    "energyValue": 1024.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:quartz_stairs"
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:activator_rail"
+    },
+    "energyValue": 263.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dropper"
+    },
+    "energyValue": 39.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_hardened_clay"
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_hardened_clay",
+      "metaValue": 1
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_hardened_clay",
+      "metaValue": 2
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_hardened_clay",
+      "metaValue": 3
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_hardened_clay",
+      "metaValue": 4
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_hardened_clay",
+      "metaValue": 5
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_hardened_clay",
+      "metaValue": 6
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_hardened_clay",
+      "metaValue": 7
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_hardened_clay",
+      "metaValue": 8
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_hardened_clay",
+      "metaValue": 9
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_hardened_clay",
+      "metaValue": 10
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_hardened_clay",
+      "metaValue": 11
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_hardened_clay",
+      "metaValue": 12
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_hardened_clay",
+      "metaValue": 13
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_hardened_clay",
+      "metaValue": 14
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stained_hardened_clay",
+      "metaValue": 15
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:hay_block"
+    },
+    "energyValue": 216.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carpet"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carpet",
+      "metaValue": 1
+    },
+    "energyValue": 33.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carpet",
+      "metaValue": 2
+    },
+    "energyValue": 33.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carpet",
+      "metaValue": 3
+    },
+    "energyValue": 33.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carpet",
+      "metaValue": 4
+    },
+    "energyValue": 33.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carpet",
+      "metaValue": 5
+    },
+    "energyValue": 33.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carpet",
+      "metaValue": 6
+    },
+    "energyValue": 33.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carpet",
+      "metaValue": 7
+    },
+    "energyValue": 33.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carpet",
+      "metaValue": 8
+    },
+    "energyValue": 33.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carpet",
+      "metaValue": 9
+    },
+    "energyValue": 33.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carpet",
+      "metaValue": 10
+    },
+    "energyValue": 33.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carpet",
+      "metaValue": 11
+    },
+    "energyValue": 33.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carpet",
+      "metaValue": 12
+    },
+    "energyValue": 33.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carpet",
+      "metaValue": 13
+    },
+    "energyValue": 33.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carpet",
+      "metaValue": 14
+    },
+    "energyValue": 33.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carpet",
+      "metaValue": 15
+    },
+    "energyValue": 33.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:hardened_clay"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:coal_block"
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:packed_ice"
+    },
+    "energyValue": 49.5
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:double_plant",
+      "metaValue": 32767
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:iron_shovel"
+    },
+    "energyValue": 264.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:iron_pickaxe"
+    },
+    "energyValue": 776.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:iron_axe"
+    },
+    "energyValue": 776.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:flint_and_steel"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:apple"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:bow"
+    },
+    "energyValue": 48.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:arrow"
+    },
+    "energyValue": 14.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:coal"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:coal",
+      "metaValue": 1
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:diamond"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:iron_ingot"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:gold_ingot"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:iron_sword"
+    },
+    "energyValue": 516.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wooden_sword"
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wooden_shovel"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wooden_pickaxe"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wooden_axe"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone_sword"
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone_shovel"
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone_pickaxe"
+    },
+    "energyValue": 11.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone_axe"
+    },
+    "energyValue": 11.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:diamond_sword"
+    },
+    "energyValue": 16388.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:diamond_shovel"
+    },
+    "energyValue": 8200.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:diamond_pickaxe"
+    },
+    "energyValue": 24584.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:diamond_axe"
+    },
+    "energyValue": 24584.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stick"
+    },
+    "energyValue": 0.25
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:bowl"
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:mushroom_stew"
+    },
+    "energyValue": 70.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:golden_sword"
+    },
+    "energyValue": 4100.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:golden_shovel"
+    },
+    "energyValue": 2056.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:golden_pickaxe"
+    },
+    "energyValue": 6152.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:golden_axe"
+    },
+    "energyValue": 6152.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:string"
+    },
+    "energyValue": 12.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:feather"
+    },
+    "energyValue": 48.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:gunpowder"
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wooden_hoe"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone_hoe"
+    },
+    "energyValue": 10.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:iron_hoe"
+    },
+    "energyValue": 520.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:diamond_hoe"
+    },
+    "energyValue": 16392.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:golden_hoe"
+    },
+    "energyValue": 4104.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wheat_seeds"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wheat"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:bread"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:leather_helmet"
+    },
+    "energyValue": 320.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:leather_chestplate"
+    },
+    "energyValue": 512.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:leather_leggings"
+    },
+    "energyValue": 448.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:leather_boots"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:iron_helmet"
+    },
+    "energyValue": 1280.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:iron_chestplate"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:iron_leggings"
+    },
+    "energyValue": 1792.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:iron_boots"
+    },
+    "energyValue": 1024.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:diamond_helmet"
+    },
+    "energyValue": 40960.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:diamond_chestplate"
+    },
+    "energyValue": 65536.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:diamond_leggings"
+    },
+    "energyValue": 57344.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:diamond_boots"
+    },
+    "energyValue": 32768.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:golden_helmet"
+    },
+    "energyValue": 10240.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:golden_chestplate"
+    },
+    "energyValue": 16384.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:golden_leggings"
+    },
+    "energyValue": 14336.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:golden_boots"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:flint"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:porkchop"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cooked_porkchop"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:painting"
+    },
+    "energyValue": 80.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:golden_apple"
+    },
+    "energyValue": 16408.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:golden_apple",
+      "metaValue": 1
+    },
+    "energyValue": 147480.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:sign"
+    },
+    "energyValue": 17.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wooden_door"
+    },
+    "energyValue": 0.006
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:bucket"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:water_bucket"
+    },
+    "energyValue": 2.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:lava_bucket"
+    },
+    "energyValue": 65.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:minecart"
+    },
+    "energyValue": 1280.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:saddle"
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:iron_door"
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:redstone"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:snowball"
+    },
+    "energyValue": 0.25
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:boat"
+    },
+    "energyValue": 40.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:leather"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:milk_bucket"
+    },
+    "energyValue": 65.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:brick"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:clay_ball"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:reeds"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:paper"
+    },
+    "energyValue": 10.5
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:book"
+    },
+    "energyValue": 55.5
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:chest_minecart"
+    },
+    "energyValue": 1344.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:furnace_minecart"
+    },
+    "energyValue": 1288.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:egg"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:compass"
+    },
+    "energyValue": 1056.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:fishing_rod"
+    },
+    "energyValue": 36.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:clock"
+    },
+    "energyValue": 8224.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:glowstone_dust"
+    },
+    "energyValue": 384.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:fish",
+      "metaValue": 32767
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cooked_fished",
+      "metaValue": 32767
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 1
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 2
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 3
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 4
+    },
+    "energyValue": 864.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 5
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 6
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 7
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 8
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 9
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 10
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 11
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 12
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 13
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 14
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 15
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:bone"
+    },
+    "energyValue": 48.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:sugar"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cake"
+    },
+    "energyValue": 328.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:bed"
+    },
+    "energyValue": 168.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:repeater"
+    },
+    "energyValue": 107.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cookie"
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:shears"
+    },
+    "energyValue": 512.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:melon"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:pumpkin_seeds"
+    },
+    "energyValue": 36.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:melon_seeds"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:beef"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cooked_beef"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:chicken"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cooked_chicken"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:rotten_flesh"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:ender_pearl"
+    },
+    "energyValue": 1024.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:blaze_rod"
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:ghast_tear"
+    },
+    "energyValue": 4096.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:gold_nugget"
+    },
+    "energyValue": 227.556
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:nether_wart"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion"
+    },
+    "energyValue": 2.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16
+    },
+    "energyValue": 8.667
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 32
+    },
+    "energyValue": 128.667
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 64
+    },
+    "energyValue": 11.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 128
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8193
+    },
+    "energyValue": 1368.222
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8194
+    },
+    "energyValue": 8.222
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8195
+    },
+    "energyValue": 138.889
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8196
+    },
+    "energyValue": 45.556
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8197
+    },
+    "energyValue": 60.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8198
+    },
+    "energyValue": 148.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8200
+    },
+    "energyValue": 60.667
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8201
+    },
+    "energyValue": 130.889
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8202
+    },
+    "energyValue": 61.407
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8204
+    },
+    "energyValue": 45.037
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8206
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8225
+    },
+    "energyValue": 148.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8226
+    },
+    "energyValue": 130.741
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8228
+    },
+    "energyValue": 133.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8229
+    },
+    "energyValue": 148.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8233
+    },
+    "energyValue": 146.099
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8236
+    },
+    "energyValue": 103.111
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8257
+    },
+    "energyValue": 60.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8258
+    },
+    "energyValue": 13.407
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8259
+    },
+    "energyValue": 56.963
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8260
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8262
+    },
+    "energyValue": 60.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8264
+    },
+    "energyValue": 30.889
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8265
+    },
+    "energyValue": 54.296
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8266
+    },
+    "energyValue": 77.654
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 8270
+    },
+    "energyValue": 46.667
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16385
+    },
+    "energyValue": 520.074
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16386
+    },
+    "energyValue": 66.741
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16387
+    },
+    "energyValue": 110.296
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16388
+    },
+    "energyValue": 79.185
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16389
+    },
+    "energyValue": 48.444
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16390
+    },
+    "energyValue": 113.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16392
+    },
+    "energyValue": 80.667
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16393
+    },
+    "energyValue": 107.63
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16394
+    },
+    "energyValue": 69.638
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16396
+    },
+    "energyValue": 42.272
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16398
+    },
+    "energyValue": 96.444
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16417
+    },
+    "energyValue": 113.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16418
+    },
+    "energyValue": 107.58
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16420
+    },
+    "energyValue": 108.444
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16421
+    },
+    "energyValue": 113.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16425
+    },
+    "energyValue": 112.7
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16428
+    },
+    "energyValue": 94.815
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16448
+    },
+    "energyValue": 67.778
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16449
+    },
+    "energyValue": 48.444
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16450
+    },
+    "energyValue": 32.914
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16451
+    },
+    "energyValue": 47.432
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16452
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16454
+    },
+    "energyValue": 48.444
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16456
+    },
+    "energyValue": 37.556
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16457
+    },
+    "energyValue": 46.543
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16458
+    },
+    "energyValue": 74.477
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16462
+    },
+    "energyValue": 42.815
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potion",
+      "metaValue": 16512
+    },
+    "energyValue": 66.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:glass_bottle"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:spider_eye"
+    },
+    "energyValue": 128.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:fermented_spider_eye"
+    },
+    "energyValue": 176.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:blaze_powder"
+    },
+    "energyValue": 384.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:magma_cream"
+    },
+    "energyValue": 408.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:brewing_stand"
+    },
+    "energyValue": 1539.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cauldron"
+    },
+    "energyValue": 1792.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:ender_eye"
+    },
+    "energyValue": 1408.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:speckled_melon"
+    },
+    "energyValue": 1836.448
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:fire_charge"
+    },
+    "energyValue": 202.667
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:writable_book"
+    },
+    "energyValue": 119.5
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:emerald"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:item_frame"
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:flower_pot"
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carrot"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potato"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:baked_potato"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:poisonous_potato"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:map"
+    },
+    "energyValue": 1140.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:golden_carrot"
+    },
+    "energyValue": 1844.448
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carrot_on_a_stick"
+    },
+    "energyValue": 60.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:nether_star"
+    },
+    "energyValue": 24576.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:pumpkin_pie"
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:comparator"
+    },
+    "energyValue": 367.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:netherbrick"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:quartz"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:tnt_minecart"
+    },
+    "energyValue": 2244.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:hopper_minecart"
+    },
+    "energyValue": 2624.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:lead"
+    },
+    "energyValue": 36.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:name_tag"
+    },
+    "energyValue": 70.5
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:markerBlock"
+    },
+    "energyValue": 900.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:pathMarkerBlock"
+    },
+    "energyValue": 52.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:filteredBufferBlock"
+    },
+    "energyValue": 2476.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Factory:autoWorkbenchBlock"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Factory:blockHopper"
+    },
+    "energyValue": 596.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Silicon:laserBlock"
+    },
+    "energyValue": 16672.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Silicon:packagerBlock"
+    },
+    "energyValue": 1116.0
+  },
+  {
+    "itemstack": {
+      "name": "eplus:tile.advancedEnchantmentTable"
+    },
+    "energyValue": 26543.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:calcinator"
+    },
+    "energyValue": 772.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:aludel"
+    },
+    "energyValue": 1794.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:glassBell"
+    },
+    "energyValue": 7.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:researchStation"
+    },
+    "energyValue": 520.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:augmentationTable"
+    },
+    "energyValue": 284.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalChest"
+    },
+    "energyValue": 576.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalChest",
+      "metaValue": 1
+    },
+    "energyValue": 16448.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalChest",
+      "metaValue": 2
+    },
+    "energyValue": 65600.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:chalkBlock"
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalFuelBlock"
+    },
+    "energyValue": 18720.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalFuelBlock",
+      "metaValue": 1
+    },
+    "energyValue": 147744.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalFuelBlock",
+      "metaValue": 2
+    },
+    "energyValue": 1179936.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:ashInfusedStone"
+    },
+    "energyValue": 2.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:ashInfusedStoneSlab"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockTaint",
+      "metaValue": 2
+    },
+    "energyValue": 216.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockCosmeticSolid",
+      "metaValue": 1
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockMetalDevice",
+      "metaValue": 5
+    },
+    "energyValue": 120.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:blockTable"
+    },
+    "energyValue": 28.0
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:tile.oxygenPipe"
+    },
+    "energyValue": 0.375
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:tile.glowstoneTorch"
+    },
+    "energyValue": 96.062
+  },
+  {
+    "itemstack": {
+      "name": "IronChest:BlockIronChest"
+    },
+    "energyValue": 2112.0
+  },
+  {
+    "itemstack": {
+      "name": "IronChest:BlockIronChest",
+      "metaValue": 1
+    },
+    "energyValue": 18496.0
+  },
+  {
+    "itemstack": {
+      "name": "IronChest:BlockIronChest",
+      "metaValue": 7
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "legendgear:caltrops"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:Storage",
+      "metaValue": 4
+    },
+    "energyValue": 9216.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:Storage",
+      "metaValue": 5
+    },
+    "energyValue": 147456.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:Storage",
+      "metaValue": 6
+    },
+    "energyValue": 147456.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:Storage",
+      "metaValue": 7
+    },
+    "energyValue": 11.808
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:Storage",
+      "metaValue": 8
+    },
+    "energyValue": 9.468
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:Storage",
+      "metaValue": 10
+    },
+    "energyValue": 9.27
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:Storage",
+      "metaValue": 11
+    },
+    "energyValue": 9.621
+  },
+  {
+    "itemstack": {
+      "name": "LogisticsPipes:logisticsSolidBlock"
+    },
+    "energyValue": 1600.0
+  },
+  {
+    "itemstack": {
+      "name": "LogisticsPipes:logisticsSolidBlock",
+      "metaValue": 1
+    },
+    "energyValue": 1888.0
+  },
+  {
+    "itemstack": {
+      "name": "LogisticsPipes:logisticsSolidBlock",
+      "metaValue": 3
+    },
+    "energyValue": 148.0
+  },
+  {
+    "itemstack": {
+      "name": "LogisticsPipes:logisticsSolidBlock",
+      "metaValue": 4
+    },
+    "energyValue": 404.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:brick"
+    },
+    "energyValue": 0.625
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:brick",
+      "metaValue": 1
+    },
+    "energyValue": 768.125
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:brick",
+      "metaValue": 2
+    },
+    "energyValue": 3888.125
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:brick",
+      "metaValue": 3
+    },
+    "energyValue": 32.125
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:brick",
+      "metaValue": 4
+    },
+    "energyValue": 0.5
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:brick",
+      "metaValue": 5
+    },
+    "energyValue": 0.625
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:brick",
+      "metaValue": 6
+    },
+    "energyValue": 0.625
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:brick",
+      "metaValue": 7
+    },
+    "energyValue": 768.125
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:brick",
+      "metaValue": 8
+    },
+    "energyValue": 3888.125
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:brick",
+      "metaValue": 9
+    },
+    "energyValue": 32.125
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:brick",
+      "metaValue": 10
+    },
+    "energyValue": 0.5
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:brick",
+      "metaValue": 11
+    },
+    "energyValue": 0.625
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:brick",
+      "metaValue": 14
+    },
+    "energyValue": 128.125
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:brick",
+      "metaValue": 15
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:stone",
+      "metaValue": 4
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:stone",
+      "metaValue": 5
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:stone",
+      "metaValue": 6
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:stone",
+      "metaValue": 7
+    },
+    "energyValue": 3.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:stone",
+      "metaValue": 8
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:stone",
+      "metaValue": 9
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:stone",
+      "metaValue": 10
+    },
+    "energyValue": 5.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:stone",
+      "metaValue": 11
+    },
+    "energyValue": 5.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:vinescaffold"
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:MeatBlock"
+    },
+    "energyValue": 240.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:WoolSlab1"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:WoolSlab1",
+      "metaValue": 1
+    },
+    "energyValue": 25.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:WoolSlab1",
+      "metaValue": 2
+    },
+    "energyValue": 25.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:WoolSlab1",
+      "metaValue": 3
+    },
+    "energyValue": 25.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:WoolSlab1",
+      "metaValue": 4
+    },
+    "energyValue": 25.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:WoolSlab1",
+      "metaValue": 5
+    },
+    "energyValue": 25.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:WoolSlab1",
+      "metaValue": 6
+    },
+    "energyValue": 25.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:WoolSlab1",
+      "metaValue": 7
+    },
+    "energyValue": 25.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:WoolSlab2"
+    },
+    "energyValue": 25.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:WoolSlab2",
+      "metaValue": 1
+    },
+    "energyValue": 25.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:WoolSlab2",
+      "metaValue": 2
+    },
+    "energyValue": 25.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:WoolSlab2",
+      "metaValue": 3
+    },
+    "energyValue": 25.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:WoolSlab2",
+      "metaValue": 4
+    },
+    "energyValue": 25.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:WoolSlab2",
+      "metaValue": 5
+    },
+    "energyValue": 25.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:WoolSlab2",
+      "metaValue": 6
+    },
+    "energyValue": 25.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:WoolSlab2",
+      "metaValue": 7
+    },
+    "energyValue": 25.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:trap.punji"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:trap.barricade.oak"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:explosive.slime"
+    },
+    "energyValue": 988.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:slime.channel"
+    },
+    "energyValue": 128.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:slime.pad"
+    },
+    "energyValue": 152.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.stonetorch"
+    },
+    "energyValue": 8.125
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.stoneladder"
+    },
+    "energyValue": 1.167
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrick"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrick",
+      "metaValue": 1
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrick",
+      "metaValue": 4
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrick",
+      "metaValue": 5
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrick",
+      "metaValue": 6
+    },
+    "energyValue": 864.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrick",
+      "metaValue": 7
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrick",
+      "metaValue": 8
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrick",
+      "metaValue": 9
+    },
+    "energyValue": 48.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrick",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrickfancy"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrickfancy",
+      "metaValue": 1
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrickfancy",
+      "metaValue": 4
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrickfancy",
+      "metaValue": 5
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrickfancy",
+      "metaValue": 6
+    },
+    "energyValue": 864.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrickfancy",
+      "metaValue": 7
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrickfancy",
+      "metaValue": 8
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrickfancy",
+      "metaValue": 9
+    },
+    "energyValue": 48.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrickfancy",
+      "metaValue": 12
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrickfancy",
+      "metaValue": 14
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:decoration.multibrickfancy",
+      "metaValue": 15
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:rail.wood"
+    },
+    "energyValue": 13.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:ToolStationBlock"
+    },
+    "energyValue": 22.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:ToolStationBlock",
+      "metaValue": 1
+    },
+    "energyValue": 38.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:ToolStationBlock",
+      "metaValue": 5
+    },
+    "energyValue": 70.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:ToolStationBlock",
+      "metaValue": 10
+    },
+    "energyValue": 6.001
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:ToolForgeBlock"
+    },
+    "energyValue": 9652.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:ToolForgeBlock",
+      "metaValue": 1
+    },
+    "energyValue": 74164.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:ToolForgeBlock",
+      "metaValue": 2
+    },
+    "energyValue": 295348.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:ToolForgeBlock",
+      "metaValue": 3
+    },
+    "energyValue": 295348.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:CraftingStation"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:CraftingSlab"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:CraftingSlab",
+      "metaValue": 1
+    },
+    "energyValue": 22.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:CraftingSlab",
+      "metaValue": 2
+    },
+    "energyValue": 38.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:CraftingSlab",
+      "metaValue": 3
+    },
+    "energyValue": 6.001
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:CraftingSlab",
+      "metaValue": 4
+    },
+    "energyValue": 70.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:CraftingSlab",
+      "metaValue": 5
+    },
+    "energyValue": 9652.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:FurnaceSlab"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:CraftedSoil",
+      "metaValue": 1
+    },
+    "energyValue": 34.5
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:CraftedSoil",
+      "metaValue": 3
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:CraftedSoil",
+      "metaValue": 4
+    },
+    "energyValue": 33.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:CraftedSoil",
+      "metaValue": 6
+    },
+    "energyValue": 38.5
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:SearedSlab"
+    },
+    "energyValue": 69.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:SearedSlab",
+      "metaValue": 4
+    },
+    "energyValue": 69.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:SearedSlab",
+      "metaValue": 5
+    },
+    "energyValue": 69.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:SearedSlab",
+      "metaValue": 6
+    },
+    "energyValue": 69.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:Smeltery"
+    },
+    "energyValue": 276.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:Smeltery",
+      "metaValue": 1
+    },
+    "energyValue": 207.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:Smeltery",
+      "metaValue": 2
+    },
+    "energyValue": 138.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:Smeltery",
+      "metaValue": 8
+    },
+    "energyValue": 138.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:Smeltery",
+      "metaValue": 9
+    },
+    "energyValue": 138.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:Smeltery",
+      "metaValue": 10
+    },
+    "energyValue": 138.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:SmelteryNether"
+    },
+    "energyValue": 308.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:SmelteryNether",
+      "metaValue": 1
+    },
+    "energyValue": 231.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:SmelteryNether",
+      "metaValue": 2
+    },
+    "energyValue": 154.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:SearedBlock"
+    },
+    "energyValue": 241.5
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:SearedBlock",
+      "metaValue": 1
+    },
+    "energyValue": 103.5
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:SearedBlock",
+      "metaValue": 2
+    },
+    "energyValue": 241.5
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:SearedBlockNether"
+    },
+    "energyValue": 269.5
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:SearedBlockNether",
+      "metaValue": 1
+    },
+    "energyValue": 115.5
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:SearedBlockNether",
+      "metaValue": 2
+    },
+    "energyValue": 269.5
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:CastingChannel"
+    },
+    "energyValue": 43.125
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:Armor.DryingRack"
+    },
+    "energyValue": 12.0
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:SteelBlock"
+    },
+    "energyValue": 2534.4
+  },
+  {
+    "itemstack": {
+      "name": "Mystcraft:BlockInkMixer"
+    },
+    "energyValue": 22.0
+  },
+  {
+    "itemstack": {
+      "name": "Mystcraft:BlockBookBinder"
+    },
+    "energyValue": 808.0
+  },
+  {
+    "itemstack": {
+      "name": "Mystcraft:BlockBookstand"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "Mystcraft:BlockLectern"
+    },
+    "energyValue": 26.0
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.bf"
+    },
+    "energyValue": 2056.0
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.bf",
+      "metaValue": 1
+    },
+    "energyValue": 18440.0
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.bf",
+      "metaValue": 2
+    },
+    "energyValue": 51212.0
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.bf",
+      "metaValue": 3
+    },
+    "energyValue": 200864.0
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.bf",
+      "metaValue": 4
+    },
+    "energyValue": 228262.0
+  },
+  {
+    "itemstack": {
+      "name": "dimdoors:Transdimensional Trapdoor"
+    },
+    "energyValue": 1072.0
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:52b}"
+    },
+    "energyValue": 73984.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:53b}"
+    },
+    "energyValue": 8032.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:54b}"
+    },
+    "energyValue": 544.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:55b}"
+    },
+    "energyValue": 320.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:48b}"
+    },
+    "energyValue": 260.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:49b}"
+    },
+    "energyValue": 2560.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:50b}"
+    },
+    "energyValue": 18688.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:51b}"
+    },
+    "energyValue": 73984.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:60b}"
+    },
+    "energyValue": 260.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:61b}"
+    },
+    "energyValue": 2560.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:62b}"
+    },
+    "energyValue": 18688.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:63b}"
+    },
+    "energyValue": 73984.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:56b}"
+    },
+    "energyValue": 1280.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:57b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:58b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:59b}"
+    },
+    "energyValue": 256.251
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:36b}"
+    },
+    "energyValue": 260.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:37b}"
+    },
+    "energyValue": 2560.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:38b}"
+    },
+    "energyValue": 18688.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:39b}"
+    },
+    "energyValue": 73984.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:32b}"
+    },
+    "energyValue": 1280.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:33b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:34b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:35b}"
+    },
+    "energyValue": 256.251
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:44b}"
+    },
+    "energyValue": 1280.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:45b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:46b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:47b}"
+    },
+    "energyValue": 256.251
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:40b}"
+    },
+    "energyValue": 73984.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:41b}"
+    },
+    "energyValue": 8032.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:42b}"
+    },
+    "energyValue": 544.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:43b}"
+    },
+    "energyValue": 320.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:20b}"
+    },
+    "energyValue": 1280.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:21b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:22b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:23b}"
+    },
+    "energyValue": 256.251
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:16b}"
+    },
+    "energyValue": 73984.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:17b}"
+    },
+    "energyValue": 8032.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:18b}"
+    },
+    "energyValue": 544.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:19b}"
+    },
+    "energyValue": 320.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:28b}"
+    },
+    "energyValue": 73984.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:29b}"
+    },
+    "energyValue": 8032.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:30b}"
+    },
+    "energyValue": 544.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:31b}"
+    },
+    "energyValue": 320.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:24b}"
+    },
+    "energyValue": 260.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:25b}"
+    },
+    "energyValue": 2560.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:26b}"
+    },
+    "energyValue": 18688.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:27b}"
+    },
+    "energyValue": 73984.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:4b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:0b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:1b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:2b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:3b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:12b}"
+    },
+    "energyValue": 260.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:13b}"
+    },
+    "energyValue": 2560.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:14b}"
+    },
+    "energyValue": 18688.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:15b}"
+    },
+    "energyValue": 73984.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:10b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:11b}"
+    },
+    "energyValue": 256.251
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:80b}"
+    },
+    "energyValue": 1280.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:81b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:82b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:68b}"
+    },
+    "energyValue": 1280.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:69b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:70b}"
+    },
+    "energyValue": 257.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:71b}"
+    },
+    "energyValue": 256.251
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:64b}"
+    },
+    "energyValue": 73984.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:65b}"
+    },
+    "energyValue": 8032.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:66b}"
+    },
+    "energyValue": 544.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:67b}"
+    },
+    "energyValue": 320.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:76b}"
+    },
+    "energyValue": 73984.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:77b}"
+    },
+    "energyValue": 8032.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:78b}"
+    },
+    "energyValue": 544.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:79b}"
+    },
+    "energyValue": 320.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:72b}"
+    },
+    "energyValue": 260.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:73b}"
+    },
+    "energyValue": 2560.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:74b}"
+    },
+    "energyValue": 18688.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{GraveType:75b}"
+    },
+    "energyValue": 73984.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{Sword:{id:272s,Count:1b,Damage:0s},GraveType:83b}"
+    },
+    "energyValue": 262.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{Sword:{id:268s,Count:1b,Damage:0s},GraveType:83b}"
+    },
+    "energyValue": 276.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{Sword:{id:276s,Count:1b,Damage:0s},GraveType:83b}"
+    },
+    "energyValue": 16644.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{Sword:{id:267s,Count:1b,Damage:0s},GraveType:83b}"
+    },
+    "energyValue": 772.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSGraveStone",
+      "tagCompound": "{Sword:{id:283s,Count:1b,Damage:0s},GraveType:83b}"
+    },
+    "energyValue": 4356.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:52b}"
+    },
+    "energyValue": 1120.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:53b}"
+    },
+    "energyValue": 448.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:54b}"
+    },
+    "energyValue": 3328.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:55b}"
+    },
+    "energyValue": 259.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:48b}"
+    },
+    "energyValue": 55552.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:49b}"
+    },
+    "energyValue": 221440.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:50b}"
+    },
+    "energyValue": 221440.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:51b}"
+    },
+    "energyValue": 23584.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:60b}"
+    },
+    "energyValue": 55552.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:61b}"
+    },
+    "energyValue": 221440.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:62b}"
+    },
+    "energyValue": 221440.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:63b}"
+    },
+    "energyValue": 23584.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:56b}"
+    },
+    "energyValue": 256.253
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:57b}"
+    },
+    "energyValue": 268.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:58b}"
+    },
+    "energyValue": 259.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:59b}"
+    },
+    "energyValue": 7168.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:36b}"
+    },
+    "energyValue": 55552.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:37b}"
+    },
+    "energyValue": 221440.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:38b}"
+    },
+    "energyValue": 221440.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:39b}"
+    },
+    "energyValue": 23584.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:32b}"
+    },
+    "energyValue": 256.253
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:33b}"
+    },
+    "energyValue": 268.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:34b}"
+    },
+    "energyValue": 259.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:35b}"
+    },
+    "energyValue": 7168.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:44b}"
+    },
+    "energyValue": 256.253
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:45b}"
+    },
+    "energyValue": 268.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:46b}"
+    },
+    "energyValue": 259.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:47b}"
+    },
+    "energyValue": 7168.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:40b}"
+    },
+    "energyValue": 1120.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:41b}"
+    },
+    "energyValue": 448.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:42b}"
+    },
+    "energyValue": 3328.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:43b}"
+    },
+    "energyValue": 259.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:16b}"
+    },
+    "energyValue": 1696.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:17b}"
+    },
+    "energyValue": 576.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:18b}"
+    },
+    "energyValue": 5376.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:19b}"
+    },
+    "energyValue": 261.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:4b}"
+    },
+    "energyValue": 259.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:5b}"
+    },
+    "energyValue": 258.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:6b}"
+    },
+    "energyValue": 258.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:0b}"
+    },
+    "energyValue": 261.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:1b}"
+    },
+    "energyValue": 5376.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:2b}"
+    },
+    "energyValue": 259.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:3b}"
+    },
+    "energyValue": 259.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:12b}"
+    },
+    "energyValue": 92416.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:13b}"
+    },
+    "energyValue": 368896.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:14b}"
+    },
+    "energyValue": 368896.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:15b}"
+    },
+    "energyValue": 39136.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:8b}"
+    },
+    "energyValue": 256.255
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:9b}"
+    },
+    "energyValue": 276.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:10b}"
+    },
+    "energyValue": 261.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:11b}"
+    },
+    "energyValue": 11776.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:116b}"
+    },
+    "energyValue": 292.254
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:118b}"
+    },
+    "energyValue": 432.005
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:84b}"
+    },
+    "energyValue": 37120.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:85b}"
+    },
+    "energyValue": 147712.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:86b}"
+    },
+    "energyValue": 147712.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:87b}"
+    },
+    "energyValue": 15808.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:80b}"
+    },
+    "energyValue": 256.252
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:81b}"
+    },
+    "energyValue": 264.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:82b}"
+    },
+    "energyValue": 258.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:83b}"
+    },
+    "energyValue": 4864.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:88b}"
+    },
+    "energyValue": 832.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:89b}"
+    },
+    "energyValue": 384.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:90b}"
+    },
+    "energyValue": 2304.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:91b}"
+    },
+    "energyValue": 258.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:68b}"
+    },
+    "energyValue": 256.252
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:69b}"
+    },
+    "energyValue": 264.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:70b}"
+    },
+    "energyValue": 258.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:71b}"
+    },
+    "energyValue": 4864.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:64b}"
+    },
+    "energyValue": 1120.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:65b}"
+    },
+    "energyValue": 448.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:66b}"
+    },
+    "energyValue": 3328.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:67b}"
+    },
+    "energyValue": 259.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:76b}"
+    },
+    "energyValue": 832.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:77b}"
+    },
+    "energyValue": 384.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:78b}"
+    },
+    "energyValue": 2304.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:79b}"
+    },
+    "energyValue": 258.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:72b}"
+    },
+    "energyValue": 37120.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:73b}"
+    },
+    "energyValue": 147712.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:74b}"
+    },
+    "energyValue": 147712.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSMemorial",
+      "tagCompound": "{GraveType:75b}"
+    },
+    "energyValue": 15808.25
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSTrap"
+    },
+    "energyValue": 119.0
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSTrap",
+      "metaValue": 1
+    },
+    "energyValue": 116.0
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSPileOfBones"
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSBoneBlock"
+    },
+    "energyValue": 1728.0
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSBoneSlab"
+    },
+    "energyValue": 864.0
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:GSBoneStairs"
+    },
+    "energyValue": 2592.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Rockwool"
+    },
+    "energyValue": 1.667
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Rockwool",
+      "metaValue": 1
+    },
+    "energyValue": 1.167
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Rockwool",
+      "metaValue": 2
+    },
+    "energyValue": 1.167
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Rockwool",
+      "metaValue": 3
+    },
+    "energyValue": 1.167
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Rockwool",
+      "metaValue": 4
+    },
+    "energyValue": 1.167
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Rockwool",
+      "metaValue": 5
+    },
+    "energyValue": 2.667
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Rockwool",
+      "metaValue": 6
+    },
+    "energyValue": 1.167
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Rockwool",
+      "metaValue": 7
+    },
+    "energyValue": 2.667
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Rockwool",
+      "metaValue": 8
+    },
+    "energyValue": 0.667
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Rockwool",
+      "metaValue": 9
+    },
+    "energyValue": 2.667
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Rockwool",
+      "metaValue": 10
+    },
+    "energyValue": 2.667
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Rockwool",
+      "metaValue": 11
+    },
+    "energyValue": 108.667
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Rockwool",
+      "metaValue": 12
+    },
+    "energyValue": 2.667
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Rockwool",
+      "metaValue": 13
+    },
+    "energyValue": 2.667
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Rockwool",
+      "metaValue": 14
+    },
+    "energyValue": 1.167
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Rockwool",
+      "metaValue": 15
+    },
+    "energyValue": 2.667
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Sponge",
+      "metaValue": 1
+    },
+    "energyValue": 92.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:Sponge",
+      "metaValue": 2
+    },
+    "energyValue": 476.0
+  },
+  {
+    "itemstack": {
+      "name": "PowerConverters3:powerconverters.common"
+    },
+    "energyValue": 16450.0
+  },
+  {
+    "itemstack": {
+      "name": "PowerConverters3:powerconverters.common",
+      "metaValue": 2
+    },
+    "energyValue": 8832.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:obsidianForced"
+    },
+    "energyValue": 260.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:gravelCompact"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "IC2:itemDust2",
+      "metaValue": 1
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "IC2:itemIngot"
+    },
+    "energyValue": 127.998
+  },
+  {
+    "itemstack": {
+      "name": "IC2:itemIngot",
+      "metaValue": 1
+    },
+    "energyValue": 191.997
+  },
+  {
+    "itemstack": {
+      "name": "IC2:itemIngot",
+      "metaValue": 3
+    },
+    "energyValue": 288.0
+  },
+  {
+    "itemstack": {
+      "name": "IC2:itemIngot",
+      "metaValue": 5
+    },
+    "energyValue": 512.001
+  },
+  {
+    "itemstack": {
+      "name": "IC2:itemIngot",
+      "metaValue": 6
+    },
+    "energyValue": 512.001
+  },
+  {
+    "itemstack": {
+      "name": "atum:item.scarab"
+    },
+    "energyValue": 16384.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:wrenchItem"
+    },
+    "energyValue": 788.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:mapLocation"
+    },
+    "energyValue": 100.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:woodenGearItem"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:stoneGearItem"
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:ironGearItem"
+    },
+    "energyValue": 1044.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:paintbrush"
+    },
+    "energyValue": 92.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:paintbrush",
+      "tagCompound": "{color:8b}"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:paintbrush",
+      "tagCompound": "{color:9b}"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:paintbrush",
+      "tagCompound": "{color:10b}"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:paintbrush",
+      "tagCompound": "{color:11b}"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:paintbrush",
+      "tagCompound": "{color:12b}"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:paintbrush",
+      "tagCompound": "{color:13b}"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:paintbrush",
+      "tagCompound": "{color:14b}"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:paintbrush",
+      "tagCompound": "{color:15b}"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:paintbrush",
+      "tagCompound": "{color:0b}"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:paintbrush",
+      "tagCompound": "{color:1b}"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:paintbrush",
+      "tagCompound": "{color:2b}"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:paintbrush",
+      "tagCompound": "{color:3b}"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:paintbrush",
+      "tagCompound": "{color:4b}"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:paintbrush",
+      "tagCompound": "{color:5b}"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:paintbrush",
+      "tagCompound": "{color:6b}"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Core:paintbrush",
+      "tagCompound": "{color:7b}"
+    },
+    "energyValue": 108.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:pipeWaterproof"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipeitemswood"
+    },
+    "energyValue": 2.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald"
+    },
+    "energyValue": 2048.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipeitemscobblestone"
+    },
+    "energyValue": 0.375
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipeitemsstone"
+    },
+    "energyValue": 0.375
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipeitemsquartz"
+    },
+    "energyValue": 256.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipeitemsiron"
+    },
+    "energyValue": 64.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipeitemsgold"
+    },
+    "energyValue": 512.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond"
+    },
+    "energyValue": 2048.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipeitemsobsidian"
+    },
+    "energyValue": 16.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipeitemslapis"
+    },
+    "energyValue": 1944.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipeitemsdaizuli"
+    },
+    "energyValue": 1996.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipeitemssandstone"
+    },
+    "energyValue": 1.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipeitemsvoid"
+    },
+    "energyValue": 6.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipeitemsemzuli"
+    },
+    "energyValue": 1996.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay"
+    },
+    "energyValue": 64.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipefluidswood"
+    },
+    "energyValue": 18.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipefluidscobblestone"
+    },
+    "energyValue": 16.375
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipefluidsstone"
+    },
+    "energyValue": 16.375
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipefluidsquartz"
+    },
+    "energyValue": 272.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipefluidsiron"
+    },
+    "energyValue": 80.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipefluidsgold"
+    },
+    "energyValue": 528.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipefluidsemerald"
+    },
+    "energyValue": 2064.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipefluidsdiamond"
+    },
+    "energyValue": 2064.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipefluidssandstone"
+    },
+    "energyValue": 17.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipefluidsvoid"
+    },
+    "energyValue": 22.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipefluidsclay"
+    },
+    "energyValue": 80.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipepowerwood"
+    },
+    "energyValue": 34.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipepowercobblestone"
+    },
+    "energyValue": 32.375
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipepowerstone"
+    },
+    "energyValue": 32.375
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipepowerquartz"
+    },
+    "energyValue": 288.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipepoweriron"
+    },
+    "energyValue": 96.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipepowergold"
+    },
+    "energyValue": 544.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipepowerdiamond"
+    },
+    "energyValue": 2080.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipepoweremerald"
+    },
+    "energyValue": 2080.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipepowersandstone"
+    },
+    "energyValue": 33.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:item.buildcraftPipe.pipestructurecobblestone"
+    },
+    "energyValue": 0.75
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:pipePlug"
+    },
+    "energyValue": 0.188
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Transport:pipePowerAdapter"
+    },
+    "energyValue": 526.125
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Robotics:redstone_board"
+    },
+    "energyValue": 116.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Builders:templateItem"
+    },
+    "energyValue": 100.0
+  },
+  {
+    "itemstack": {
+      "name": "BuildCraft|Builders:blueprintItem"
+    },
+    "energyValue": 948.0
+  },
+  {
+    "itemstack": {
+      "name": "eplus:item.tableUpgrade"
+    },
+    "energyValue": 9847.5
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalBag"
+    },
+    "energyValue": 560.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalBag",
+      "metaValue": 1
+    },
+    "energyValue": 16432.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalBag",
+      "metaValue": 2
+    },
+    "energyValue": 65584.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust",
+      "metaValue": 1
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust",
+      "metaValue": 2
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust",
+      "metaValue": 3
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalFuel"
+    },
+    "energyValue": 2080.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalFuel",
+      "metaValue": 1
+    },
+    "energyValue": 16416.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalFuel",
+      "metaValue": 2
+    },
+    "energyValue": 131104.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:stoneInert"
+    },
+    "energyValue": 3076.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:shardMinium"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:stoneMinium"
+    },
+    "energyValue": 68612.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:chalk"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:diviningRod"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchenomicon"
+    },
+    "energyValue": 8247.5
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemEssence"
+    },
+    "energyValue": 8.375
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemInkwell"
+    },
+    "energyValue": 65.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemNugget"
+    },
+    "energyValue": 28.444
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemNugget",
+      "metaValue": 1
+    },
+    "energyValue": 14.222
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemNugget",
+      "metaValue": 2
+    },
+    "energyValue": 21.333
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemNugget",
+      "metaValue": 3
+    },
+    "energyValue": 56.889
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemNugget",
+      "metaValue": 4
+    },
+    "energyValue": 56.889
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemBaubleBlanks"
+    },
+    "energyValue": 2084.0
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemBaubleBlanks",
+      "metaValue": 1
+    },
+    "energyValue": 910.224
+  },
+  {
+    "itemstack": {
+      "name": "Thaumcraft:ItemBaubleBlanks",
+      "metaValue": 2
+    },
+    "energyValue": 2240.0
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.oxygenMask"
+    },
+    "energyValue": 1283.0
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.canvas"
+    },
+    "energyValue": 60.5
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.basicItem",
+      "metaValue": 2
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.parachute"
+    },
+    "energyValue": 217.5
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.parachute",
+      "metaValue": 1
+    },
+    "energyValue": 233.5
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.parachute",
+      "metaValue": 2
+    },
+    "energyValue": 221.5
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.parachute",
+      "metaValue": 3
+    },
+    "energyValue": 233.5
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.parachute",
+      "metaValue": 4
+    },
+    "energyValue": 233.5
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.parachute",
+      "metaValue": 5
+    },
+    "energyValue": 1081.5
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.parachute",
+      "metaValue": 6
+    },
+    "energyValue": 233.5
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.parachute",
+      "metaValue": 7
+    },
+    "energyValue": 233.5
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.parachute",
+      "metaValue": 8
+    },
+    "energyValue": 221.5
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.parachute",
+      "metaValue": 9
+    },
+    "energyValue": 221.5
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.parachute",
+      "metaValue": 10
+    },
+    "energyValue": 221.5
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.parachute",
+      "metaValue": 11
+    },
+    "energyValue": 221.5
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.parachute",
+      "metaValue": 12
+    },
+    "energyValue": 233.5
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.parachute",
+      "metaValue": 13
+    },
+    "energyValue": 221.5
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.parachute",
+      "metaValue": 14
+    },
+    "energyValue": 233.5
+  },
+  {
+    "itemstack": {
+      "name": "GalacticraftCore:item.parachute",
+      "metaValue": 15
+    },
+    "energyValue": 221.5
+  },
+  {
+    "itemstack": {
+      "name": "IronChest:ironGoldUpgrade"
+    },
+    "energyValue": 16640.0
+  },
+  {
+    "itemstack": {
+      "name": "IronChest:goldDiamondUpgrade"
+    },
+    "energyValue": 18438.0
+  },
+  {
+    "itemstack": {
+      "name": "IronChest:diamondCrystalUpgrade"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "IronChest:woodIronUpgrade"
+    },
+    "energyValue": 2056.0
+  },
+  {
+    "itemstack": {
+      "name": "IronChest:diamondObsidianUpgrade"
+    },
+    "energyValue": 513.0
+  },
+  {
+    "itemstack": {
+      "name": "legendgear:emeraldShard"
+    },
+    "energyValue": 128.0
+  },
+  {
+    "itemstack": {
+      "name": "legendgear:emeraldShard",
+      "metaValue": 1
+    },
+    "energyValue": 1024.0
+  },
+  {
+    "itemstack": {
+      "name": "legendgear:milkChocolate"
+    },
+    "energyValue": 96.0
+  },
+  {
+    "itemstack": {
+      "name": "legendgear:reedPipes"
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "legendgear:badBow"
+    },
+    "energyValue": 36.75
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:lexicon",
+      "tagCompound": "{Empowered:0b}"
+    },
+    "energyValue": 10583.5
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:bucket"
+    },
+    "energyValue": 321.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:bucket",
+      "metaValue": 1
+    },
+    "energyValue": 1537.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:bucket",
+      "metaValue": 2
+    },
+    "energyValue": 4097.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:bucket",
+      "metaValue": 4
+    },
+    "energyValue": 195.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:bucket",
+      "metaValue": 6
+    },
+    "energyValue": 321.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:bucket",
+      "metaValue": 7
+    },
+    "energyValue": 198.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 1
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 2
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 3
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 4
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 8
+    },
+    "energyValue": 28.444
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 12
+    },
+    "energyValue": 1280.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 13
+    },
+    "energyValue": 8448.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 16
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 17
+    },
+    "energyValue": 0.571
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 32
+    },
+    "energyValue": 127.998
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 33
+    },
+    "energyValue": 191.997
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 34
+    },
+    "energyValue": 512.001
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 35
+    },
+    "energyValue": 512.001
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 36
+    },
+    "energyValue": 1024.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 37
+    },
+    "energyValue": 16384.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 38
+    },
+    "energyValue": 16384.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 39
+    },
+    "energyValue": 1.312
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 40
+    },
+    "energyValue": 1.052
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 42
+    },
+    "energyValue": 1.03
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 43
+    },
+    "energyValue": 1.069
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 44
+    },
+    "energyValue": 5296.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 64
+    },
+    "energyValue": 128.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 65
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 66
+    },
+    "energyValue": 512.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 67
+    },
+    "energyValue": 512.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 68
+    },
+    "energyValue": 1024.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 69
+    },
+    "energyValue": 16384.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 70
+    },
+    "energyValue": 16384.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 71
+    },
+    "energyValue": 1.156
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 72
+    },
+    "energyValue": 1.026
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 73
+    },
+    "energyValue": 79.999
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 74
+    },
+    "energyValue": 1.015
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 75
+    },
+    "energyValue": 1.035
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 100
+    },
+    "energyValue": 113.778
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 101
+    },
+    "energyValue": 1820.444
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 102
+    },
+    "energyValue": 1820.444
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 103
+    },
+    "energyValue": 0.128
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 104
+    },
+    "energyValue": 0.114
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 106
+    },
+    "energyValue": 0.113
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 107
+    },
+    "energyValue": 0.115
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 132
+    },
+    "energyValue": 4352.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 133
+    },
+    "energyValue": 65792.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 134
+    },
+    "energyValue": 65792.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 135
+    },
+    "energyValue": 260.624
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 136
+    },
+    "energyValue": 260.104
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 138
+    },
+    "energyValue": 260.06
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 139
+    },
+    "energyValue": 260.14
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 513
+    },
+    "energyValue": 48.535
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 514
+    },
+    "energyValue": 49.285
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 1024
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 1025
+    },
+    "energyValue": 64.25
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 1027
+    },
+    "energyValue": 65.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 1029
+    },
+    "energyValue": 80.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.shearsWood"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.sickleWood"
+    },
+    "energyValue": 28.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.shearsStone"
+    },
+    "energyValue": 2.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.fishingRodStone"
+    },
+    "energyValue": 30.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.sickleStone"
+    },
+    "energyValue": 7.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.bowStone"
+    },
+    "energyValue": 42.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.fishingRodIron"
+    },
+    "energyValue": 540.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.sickleIron"
+    },
+    "energyValue": 772.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.bowIron"
+    },
+    "energyValue": 552.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.shearsDiamond"
+    },
+    "energyValue": 16384.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.fishingRodDiamond"
+    },
+    "energyValue": 16412.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.sickleDiamond"
+    },
+    "energyValue": 24580.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.bowDiamond"
+    },
+    "energyValue": 16424.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.shearsGold"
+    },
+    "energyValue": 4096.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.fishingRodGold"
+    },
+    "energyValue": 4124.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.sickleGold"
+    },
+    "energyValue": 6148.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.bowGold"
+    },
+    "energyValue": 4136.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:armor.helmetNickel"
+    },
+    "energyValue": 5120.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:armor.plateNickel"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:armor.legsNickel"
+    },
+    "energyValue": 7168.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:armor.bootsNickel"
+    },
+    "energyValue": 4096.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.swordNickel"
+    },
+    "energyValue": 2052.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.shovelNickel"
+    },
+    "energyValue": 1032.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.pickaxeNickel"
+    },
+    "energyValue": 3080.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.axeNickel"
+    },
+    "energyValue": 3080.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.hoeNickel"
+    },
+    "energyValue": 2056.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.shearsNickel"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.fishingRodNickel"
+    },
+    "energyValue": 2076.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.sickleNickel"
+    },
+    "energyValue": 3076.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.bowNickel"
+    },
+    "energyValue": 2088.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:armor.helmetElectrum"
+    },
+    "energyValue": 5.78
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:armor.plateElectrum"
+    },
+    "energyValue": 9.248
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:armor.legsElectrum"
+    },
+    "energyValue": 8.092
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:armor.bootsElectrum"
+    },
+    "energyValue": 4.624
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.swordElectrum"
+    },
+    "energyValue": 6.312
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.shovelElectrum"
+    },
+    "energyValue": 9.156
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.pickaxeElectrum"
+    },
+    "energyValue": 11.468
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.axeElectrum"
+    },
+    "energyValue": 11.468
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.hoeElectrum"
+    },
+    "energyValue": 10.312
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.shearsElectrum"
+    },
+    "energyValue": 2.312
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.fishingRodElectrum"
+    },
+    "energyValue": 30.312
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.sickleElectrum"
+    },
+    "energyValue": 7.468
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.bowElectrum"
+    },
+    "energyValue": 42.312
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:armor.helmetInvar"
+    },
+    "energyValue": 5.13
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:armor.plateInvar"
+    },
+    "energyValue": 8.208
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:armor.legsInvar"
+    },
+    "energyValue": 7.182
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:armor.bootsInvar"
+    },
+    "energyValue": 4.104
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.swordInvar"
+    },
+    "energyValue": 6.052
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.shovelInvar"
+    },
+    "energyValue": 9.026
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.pickaxeInvar"
+    },
+    "energyValue": 11.078
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.axeInvar"
+    },
+    "energyValue": 11.078
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.hoeInvar"
+    },
+    "energyValue": 10.052
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.shearsInvar"
+    },
+    "energyValue": 2.052
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.fishingRodInvar"
+    },
+    "energyValue": 30.052
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.sickleInvar"
+    },
+    "energyValue": 7.078
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.bowInvar"
+    },
+    "energyValue": 42.052
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:armor.helmetPlatinum"
+    },
+    "energyValue": 81920.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:armor.platePlatinum"
+    },
+    "energyValue": 131072.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:armor.legsPlatinum"
+    },
+    "energyValue": 114688.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:armor.bootsPlatinum"
+    },
+    "energyValue": 65536.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.swordPlatinum"
+    },
+    "energyValue": 32772.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.shovelPlatinum"
+    },
+    "energyValue": 16392.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.pickaxePlatinum"
+    },
+    "energyValue": 49160.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.axePlatinum"
+    },
+    "energyValue": 49160.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.hoePlatinum"
+    },
+    "energyValue": 32776.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.shearsPlatinum"
+    },
+    "energyValue": 32768.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.fishingRodPlatinum"
+    },
+    "energyValue": 32796.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.sicklePlatinum"
+    },
+    "energyValue": 49156.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:tool.bowPlatinum"
+    },
+    "energyValue": 32808.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:transfuser"
+    },
+    "energyValue": 423.988
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:diagram"
+    },
+    "energyValue": 37.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:diagram",
+      "metaValue": 1
+    },
+    "energyValue": 53.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:material",
+      "metaValue": 1
+    },
+    "energyValue": 2112.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:material",
+      "metaValue": 3
+    },
+    "energyValue": 65.156
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:material",
+      "metaValue": 512
+    },
+    "energyValue": 5.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:material",
+      "metaValue": 513
+    },
+    "energyValue": 40.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:material",
+      "metaValue": 514
+    },
+    "energyValue": 0.667
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:material",
+      "metaValue": 515
+    },
+    "energyValue": 1057.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:material",
+      "metaValue": 516
+    },
+    "energyValue": 1.039
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:material",
+      "metaValue": 517
+    },
+    "energyValue": 34.049
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:florb"
+    },
+    "energyValue": 7.417
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:florb",
+      "tagCompound": "{Fluid:\"redstone\"}"
+    },
+    "energyValue": 327.417
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:florb",
+      "tagCompound": "{Fluid:\"ender\"}"
+    },
+    "energyValue": 4103.417
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:florb",
+      "tagCompound": "{Fluid:\"water\"}"
+    },
+    "energyValue": 8.417
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:florb",
+      "tagCompound": "{Fluid:\"coal\"}"
+    },
+    "energyValue": 327.417
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:florb",
+      "tagCompound": "{Fluid:\"milk\"}"
+    },
+    "energyValue": 71.417
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:florb",
+      "tagCompound": "{Fluid:\"glowstone\"}"
+    },
+    "energyValue": 1543.417
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:florb",
+      "tagCompound": "{Fluid:\"mushroomsoup\"}"
+    },
+    "energyValue": 77.417
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:florb",
+      "tagCompound": "{Fluid:\"cryotheum\"}"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:florb",
+      "tagCompound": "{Fluid:\"aerotheum\"}"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:florb",
+      "metaValue": 1
+    },
+    "energyValue": 103.417
+  },
+  {
+    "itemstack": {
+      "name": "ThermalExpansion:florb",
+      "metaValue": 1,
+      "tagCompound": "{Fluid:\"lava\"}"
+    },
+    "energyValue": 167.417
+  },
+  {
+    "itemstack": {
+      "name": "LogisticsPipes:item.itemModule"
+    },
+    "energyValue": 312.556
+  },
+  {
+    "itemstack": {
+      "name": "LogisticsPipes:item.itemDisk"
+    },
+    "energyValue": 1006.224
+  },
+  {
+    "itemstack": {
+      "name": "LogisticsPipes:item.PipeItemsBasicTransport"
+    },
+    "energyValue": 68.047
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:safarinet.reusable"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:milkbottle"
+    },
+    "energyValue": 65.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:sugarcharcoal"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:ceramicdye"
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:ceramicdye",
+      "metaValue": 1
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:ceramicdye",
+      "metaValue": 2
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:ceramicdye",
+      "metaValue": 3
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:ceramicdye",
+      "metaValue": 4
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:ceramicdye",
+      "metaValue": 5
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:ceramicdye",
+      "metaValue": 6
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:ceramicdye",
+      "metaValue": 7
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:ceramicdye",
+      "metaValue": 8
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:ceramicdye",
+      "metaValue": 9
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:ceramicdye",
+      "metaValue": 10
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:ceramicdye",
+      "metaValue": 11
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:ceramicdye",
+      "metaValue": 12
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:ceramicdye",
+      "metaValue": 13
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:ceramicdye",
+      "metaValue": 14
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:ceramicdye",
+      "metaValue": 15
+    },
+    "energyValue": 20.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:bucket.chocolatemilk"
+    },
+    "energyValue": 82.0
+  },
+  {
+    "itemstack": {
+      "name": "MineFactoryReloaded:bucket.mushroomsoup"
+    },
+    "energyValue": 71.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:blankPattern"
+    },
+    "energyValue": 6.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:materials"
+    },
+    "energyValue": 42.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:materials",
+      "metaValue": 2
+    },
+    "energyValue": 34.5
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:materials",
+      "metaValue": 6
+    },
+    "energyValue": 9.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:materials",
+      "metaValue": 7
+    },
+    "energyValue": 7018.668
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:materials",
+      "metaValue": 19
+    },
+    "energyValue": 28.444
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:materials",
+      "metaValue": 37
+    },
+    "energyValue": 38.5
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:manualBook"
+    },
+    "energyValue": 16.5
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:manualBook",
+      "metaValue": 1
+    },
+    "energyValue": 16.5
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:manualBook",
+      "metaValue": 2
+    },
+    "energyValue": 16.5
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:manualBook",
+      "metaValue": 3
+    },
+    "energyValue": 16.5
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:manualBook",
+      "metaValue": 4
+    },
+    "energyValue": 16.5
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:toolRod",
+      "metaValue": 1
+    },
+    "energyValue": 0.5
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:buckets",
+      "metaValue": 23
+    },
+    "energyValue": 4097.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:diamondApple"
+    },
+    "energyValue": 32792.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:helmetWood"
+    },
+    "energyValue": 160.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:chestplateWood"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:leggingsWood"
+    },
+    "energyValue": 224.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:bootsWood"
+    },
+    "energyValue": 128.0
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:travelGlove",
+      "tagCompound": "{TinkerAccessory:{BaseDurability:500,Built:1b,Damage:0,BonusDurability:0,TotalDurability:500,ModDurability:0.0f,Modifiers:5,Broken:0b}}"
+    },
+    "energyValue": 384.0
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:ReinforcedBow"
+    },
+    "energyValue": 86.25
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:IronBow"
+    },
+    "energyValue": 890.25
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:GoldBow"
+    },
+    "energyValue": 22658.25
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:CrystalBow"
+    },
+    "energyValue": 39334.25
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:EmeraldBow"
+    },
+    "energyValue": 260554.25
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:ObsidianBow"
+    },
+    "energyValue": 1118.25
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:FlameBow"
+    },
+    "energyValue": 6012.25
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:FrostBow"
+    },
+    "energyValue": 929.25
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:HealingBow"
+    },
+    "energyValue": 309814.25
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:SteelBow"
+    },
+    "energyValue": 1771.05
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:LegiaBow"
+    },
+    "energyValue": 2072.5
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:GlassBow"
+    },
+    "energyValue": 37.125
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:PoisonBow"
+    },
+    "energyValue": 650.25
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:QuartzBow"
+    },
+    "energyValue": 3998.25
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:LapisBow"
+    },
+    "energyValue": 16478.25
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:DarknessBow"
+    },
+    "energyValue": 2078.25
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:ExplosiveBow"
+    },
+    "energyValue": 8940.25
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:NauseaBow"
+    },
+    "energyValue": 1182.25
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:FatigueBow"
+    },
+    "energyValue": 1168.25
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:SteelIngot"
+    },
+    "energyValue": 281.6
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:DarkQuartz"
+    },
+    "energyValue": 384.0
+  },
+  {
+    "itemstack": {
+      "name": "MoreBows2:BedrockChisel"
+    },
+    "energyValue": 2534.401
+  },
+  {
+    "itemstack": {
+      "name": "MutantCreatures:item.creeperStats"
+    },
+    "energyValue": 196.0
+  },
+  {
+    "itemstack": {
+      "name": "MutantCreatures:item.chemicalX"
+    },
+    "energyValue": 258.0
+  },
+  {
+    "itemstack": {
+      "name": "Mystcraft:folder"
+    },
+    "energyValue": 140.0
+  },
+  {
+    "itemstack": {
+      "name": "Mystcraft:portfolio"
+    },
+    "energyValue": 396.0
+  },
+  {
+    "itemstack": {
+      "name": "Mystcraft:writingdesk"
+    },
+    "energyValue": 89.0
+  },
+  {
+    "itemstack": {
+      "name": "Mystcraft:writingdesk",
+      "metaValue": 1
+    },
+    "energyValue": 136.0
+  },
+  {
+    "itemstack": {
+      "name": "Mystcraft:vial"
+    },
+    "energyValue": 34.0
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.upstorage"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.upliquid"
+    },
+    "energyValue": 1028.0
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.upender"
+    },
+    "energyValue": 35232.0
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.upadvender"
+    },
+    "energyValue": 76320.0
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.upore"
+    },
+    "energyValue": 327.0
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.upadvore"
+    },
+    "energyValue": 33855.0
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.upoutput"
+    },
+    "energyValue": 5121.0
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.upinput"
+    },
+    "energyValue": 20482.0
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.upfactory"
+    },
+    "energyValue": 74756.0
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.upcolor"
+    },
+    "energyValue": 2176.0
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.uporedict"
+    },
+    "energyValue": 1738.5
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.uppackage"
+    },
+    "energyValue": 8320.0
+  },
+  {
+    "itemstack": {
+      "name": "FLabsBF:flabs.uppiping"
+    },
+    "energyValue": 1794.0
+  },
+  {
+    "itemstack": {
+      "name": "dimdoors:Rift Key"
+    },
+    "energyValue": 5120.0
+  },
+  {
+    "itemstack": {
+      "name": "dimdoors:Quartz Door Item"
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "dimdoors:Golden Door Item"
+    },
+    "energyValue": 12288.0
+  },
+  {
+    "itemstack": {
+      "name": "dimdoors:Warp Door Item"
+    },
+    "energyValue": 1024.012
+  },
+  {
+    "itemstack": {
+      "name": "dimdoors:Rift Signature"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "dimdoors:Rift Remover"
+    },
+    "energyValue": 17408.0
+  },
+  {
+    "itemstack": {
+      "name": "GraveStone:Chisel"
+    },
+    "energyValue": 256.25
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:EnderPearlDust"
+    },
+    "energyValue": 128.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:PortalPotato"
+    },
+    "energyValue": 8603.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:MiniBlackHole"
+    },
+    "energyValue": 25600.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:PortalGunPedestal"
+    },
+    "energyValue": 864.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:PortalMulti"
+    },
+    "energyValue": 1028.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:PortalMulti",
+      "metaValue": 2
+    },
+    "energyValue": 2340.75
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:PortalMulti",
+      "metaValue": 4
+    },
+    "energyValue": 5152.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:PortalMulti",
+      "metaValue": 5
+    },
+    "energyValue": 4768.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:PortalMulti",
+      "metaValue": 13
+    },
+    "energyValue": 289.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:PortalMulti",
+      "metaValue": 14
+    },
+    "energyValue": 1665.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:PortalTurret"
+    },
+    "energyValue": 1440.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:PortalTurret",
+      "metaValue": 2
+    },
+    "energyValue": 1440.0
+  },
+  {
+    "itemstack": {
+      "name": "PortalGun:AerialFaithPlate"
+    },
+    "energyValue": 929.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:guardianIngot"
+    },
+    "energyValue": 2176.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:purifiedGold"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:gravelClump"
+    },
+    "energyValue": 272.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:goldenFeather"
+    },
+    "energyValue": 8240.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:bloatedInkSac"
+    },
+    "energyValue": 128.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:airTank"
+    },
+    "energyValue": 1920.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:diamondRod"
+    },
+    "energyValue": 5461.333
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:emptyVial"
+    },
+    "energyValue": 0.525
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:rapidBow"
+    },
+    "energyValue": 16420.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:cookedFlesh"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:seasonedFlesh"
+    },
+    "energyValue": 40.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:toast"
+    },
+    "energyValue": 72.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:gravelPickaxe"
+    },
+    "energyValue": 48.5
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:gravelSword"
+    },
+    "energyValue": 32.25
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:gravelAxe"
+    },
+    "energyValue": 48.5
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:gravelShovel"
+    },
+    "energyValue": 16.5
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:gravelHoe"
+    },
+    "energyValue": 32.5
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:pGoldPickaxe"
+    },
+    "energyValue": 6144.5
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:pGoldSword"
+    },
+    "energyValue": 4096.25
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:pGoldAxe"
+    },
+    "energyValue": 6144.5
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:pGoldShovel"
+    },
+    "energyValue": 2048.5
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:pGoldHoe"
+    },
+    "energyValue": 4096.5
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:obsidianPickaxe"
+    },
+    "energyValue": 780.5
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:obsidianSword"
+    },
+    "energyValue": 520.25
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:obsidianAxe"
+    },
+    "energyValue": 780.5
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:obsidianShovel"
+    },
+    "energyValue": 260.5
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:obsidianHoe"
+    },
+    "energyValue": 520.5
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:obsidianHelmet"
+    },
+    "energyValue": 712.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:obsidianPlate"
+    },
+    "energyValue": 904.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:obsidianLegs"
+    },
+    "energyValue": 840.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:obsidianBoots"
+    },
+    "energyValue": 648.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:emeraldPickaxe"
+    },
+    "energyValue": 24576.5
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:emeraldSword"
+    },
+    "energyValue": 16384.25
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:emeraldAxe"
+    },
+    "energyValue": 24576.5
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:emeraldShovel"
+    },
+    "energyValue": 8192.5
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:emeraldHoe"
+    },
+    "energyValue": 16384.5
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:emeraldHelmet"
+    },
+    "energyValue": 40960.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:emeraldPlate"
+    },
+    "energyValue": 65536.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:emeraldLegs"
+    },
+    "energyValue": 57344.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:emeraldBoots"
+    },
+    "energyValue": 32768.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:invHelmet"
+    },
+    "energyValue": 10880.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:invPlate"
+    },
+    "energyValue": 17408.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:invLegs"
+    },
+    "energyValue": 15232.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:invBoots"
+    },
+    "energyValue": 8704.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:scubaHelmet"
+    },
+    "energyValue": 2049.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:scubaTank"
+    },
+    "energyValue": 5632.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:scubaPants"
+    },
+    "energyValue": 1920.0
+  },
+  {
+    "itemstack": {
+      "name": "VanillaPlus:scubaFlippers"
+    },
+    "energyValue": 1280.0
+  }
+]

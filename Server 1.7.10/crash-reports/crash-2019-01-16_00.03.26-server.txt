@@ -1,0 +1,152 @@
+---- Minecraft Crash Report ----
+// I just don't know what went wrong :(
+
+Time: 1/16/19 12:03 AM
+Description: Exception in server tick loop
+
+cpw.mods.fml.common.LoaderException: java.lang.NoClassDefFoundError: net/minecraft/client/multiplayer/WorldClient
+	at cpw.mods.fml.common.LoadController.transition(LoadController.java:163)
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:739)
+	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:97)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:319)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:210)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/multiplayer/WorldClient
+	at DamageIndicatorsMod.server.DIProxy.register(DIProxy.java:14)
+	at DamageIndicatorsMod.DIMod.load(DIMod.java:65)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:737)
+	... 5 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.multiplayer.WorldClient
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 33 more
+Caused by: java.lang.RuntimeException: Attempted to load class bjf for invalid side SERVER
+	at cpw.mods.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:50)
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+	... 35 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (x86) version 10.0
+	Java Version: 1.8.0_191, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 568962824 bytes (542 MB) / 1037959168 bytes (989 MB) up to 1037959168 bytes (989 MB)
+	JVM Flags: 2 total; -Xmx1024M -Xms1024M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1558 71 mods loaded, 62 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHI	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHI	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1558-1.7.10-universal.jar) 
+	UCHI	Forge{10.13.4.1558} [Minecraft Forge] (forge-1.7.10-10.13.4.1558-1.7.10-universal.jar) 
+	UCHI	CodeChickenCore{1.0.4.29} [CodeChicken Core] (minecraft.jar) 
+	UCHI	Micdoodlecore{} [Micdoodle8 Core] (minecraft.jar) 
+	UCHI	NotEnoughItems{1.0.3.74} [Not Enough Items] (Not-Enough-Items-1.7.10-Recommended.jar) 
+	UCHI	<CoFH ASM>{000} [CoFH ASM] (minecraft.jar) 
+	UCHI	bspkrsCore{6.15} [bspkrsCore] ([1.7.10]bspkrsCore-universal-6.15.jar) 
+	UCHI	IC2{2.2.827-experimental} [IndustrialCraft 2] (Industrial-Craft-2-Mod-Experimental-1.7.10.jar) 
+	UCHI	AdvancedMachines{1.1.6} [IC2 Advanced Machines Addon] (AdvancedMachinesAS-1.7.10.jar) 
+	UCHI	AdvancedSolarPanel{1.7.10-3.5.1} [Advanced Solar Panels] (AdvancedSolarPanel-1.7.10-3.5.1.jar) 
+	UCHI	AnimationAPI{1.2.4} [AnimationAPI] (AnimationAPI-1.7.10-1.2.4.jar) 
+	UCHI	atum{0.6} [Atum] (Atum-1.7.10-0.6.77.jar) 
+	UCHI	Baubles{1.0.1.10} [Baubles] (Baubles-1.7.10-1.0.1.10.jar) 
+	UCHI	FLabsBF{4.3} [Better Furnaces] (Better-Furnaces-Mod-1.7.10.jar) 
+	UCHI	CoFHCore{1.7.10R3.1.4} [CoFH Core] (CoFHCore-[1.7.10]3.1.4-329.jar) 
+	UCHI	BuildCraft|Core{7.1.23} [BuildCraft] (BuildCraft-Mod-1.7.10.jar) 
+	UCHI	BuildCraft|Transport{7.1.23} [BC Transport] (BuildCraft-Mod-1.7.10.jar) 
+	UCHI	BuildCraft|Factory{7.1.23} [BC Factory] (BuildCraft-Mod-1.7.10.jar) 
+	UCHI	BuildCraft|Silicon{7.1.23} [BC Silicon] (BuildCraft-Mod-1.7.10.jar) 
+	UCHI	BuildCraft|Robotics{7.1.23} [BC Robotics] (BuildCraft-Mod-1.7.10.jar) 
+	UCHI	BuildCraft|Energy{7.1.23} [BC Energy] (BuildCraft-Mod-1.7.10.jar) 
+	UCHI	BuildCraft|Builders{7.1.23} [BC Builders] (BuildCraft-Mod-1.7.10.jar) 
+	UCHE	DamageIndicatorsMod{3.2.0} [Damage Indicators] (Damage-Indicators-Mod-1.7.10.jar) 
+	UCHI	dimdoors{2.2.5-test9} [Dimensional Doors] (DimensionalDoors_2.2.5_test9.jar) 
+	UCHI	dungeonpack{1.7.10-1.0} [Dungeon Pack] (Dungeon-Pack-Mod-1.7.10.jar) 
+	UCHI	eplus{3.0.2-d} [Enchanting Plus] (Enchanting-Plus-Mod-1.7.10.jar) 
+	UCHI	EE3{0.3.0.547} [Equivalent Exchange 3] (Equivalent-Exchange-3-Mod-1.7.10.jar) 
+	UCHI	Thaumcraft{4.2.3.5} [Thaumcraft] (Thaumcraft-1.7.10-4.2.3.5.jar) 
+	UCHI	meteors{2.14.3} [Falling Meteors] (Falling-Meteors-Mod-1.7.10.jar) 
+	UCHI	GalacticraftCore{3.0.12} [Galacticraft Core] (Galacticraft-Mod-1.7.10.jar) 
+	UCHI	GraveStone{2.16.0} [GraveStone] (Gravestone-Mod-1.7.10.jar) 
+	UCHI	GraviSuite{1.7.10-2.0.3} [Graviation Suite] (Gravitation-Suite-Addon-1.7.10.jar) 
+	UCHI	iChunUtil{4.2.3} [iChunUtil] (iChunUtil-4.2.3.jar) 
+	UCHI	inventorytweaks{1.58-147-645ca10} [Inventory Tweaks] (Inventory-Tweaks-Mod-1.7.10.jar) 
+	UCHI	IronChest{6.0.60.741} [Iron Chest] (Iron-Chests-Mod-1.7.10.jar) 
+	UCHI	legendgear{2.b.0.2} [Legend Gear 2] (LegendGear-2-Mod-1.7.10.jar) 
+	UCHI	ThermalFoundation{1.7.10R1.2.6} [Thermal Foundation] (Thermal-Foundation-Mod-1.7.10.jar) 
+	UCHI	ThermalExpansion{1.7.10R4.1.5} [Thermal Expansion] (Thermal-Expansion-Mod-1.7.10.jar) 
+	UCHI	LogisticsPipes{0.9.3.132} [Logistics Pipes] (logisticspipes-0.9.3.132.jar) 
+	UCHI	Mantle{1.7.10-0.3.2.jenkins191} [Mantle] (Mantle-Mod-1.7.10.jar) 
+	UCHI	MineFactoryReloaded{1.7.10R2.8.2B1} [MineFactory Reloaded] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	UCHI	MineFactoryReloaded|CompatBuildCraft{1.7.10R2.8.2B1} [MFR Compat: BuildCraft] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	UCHI	MineFactoryReloaded|CompatForgeMicroblock{1.7.10R2.8.2B1} [MFR Compat: ForgeMicroblock] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	UCHI	MineFactoryReloaded|CompatIC2{1.7.10R2.8.2B1} [MFR Compat: IC2] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	UCHI	MineFactoryReloaded|CompatThaumcraft{1.7.10R2.8.2B1} [MFR Compat: Thaumcraft] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	UCHI	MineFactoryReloaded|CompatThermalExpansion{1.7.10R2.8.2B1} [MFR Compat: Thermal Expansion] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	UCHI	TConstruct{1.7.10-1.8.8.build988} [Tinkers' Construct] (TConstruct-Mod-1.7.10.jar) 
+	UCHI	MineFactoryReloaded|CompatTConstruct{1.7.10R2.8.2B1} [MFR Compat: Tinkers' Construct] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	UCHI	TwilightForest{2.3.7} [The Twilight Forest] (Twilight-Forest-Mod-1.7.10.jar) 
+	UCHI	MineFactoryReloaded|CompatTwilightForest{1.7.10R2.8.2B1} [MFR Compat: TwilightForest] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	UCHI	MineFactoryReloaded|CompatVanilla{1.7.10R2.8.2B1} [MFR Compat: Vanilla] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	UCHI	mozombies{2.1.1} [Mo' Zombies] (Mo'+Zombies+2.1.1.jar) 
+	UCHI	MoreBows2{1.2} [More Bows 2] (More-Bows-2-Mod-1.7.10.jar) 
+	UCHI	MutantCreatures{1.4.9} [Mutant Creatures] (MutantCreatures-1.7.10-1.4.9.jar) 
+	UCHI	Mystcraft{0.12.3.04} [Mystcraft] (Mystcraft-Mod-1.7.10.jar) 
+	UCHI	NetherOres{1.7.10R2.3.2B1} [Nether Ores] (NetherOres-[1.7.10]2.3.2B1-25.jar) 
+	UCHI	PortalGun{4.0.0-beta-6} [PortalGun] (PortalGun-4.0.0-beta-6-fix-1.jar) 
+	UCHI	PowerConverters3{1.7.10-2.11} [Power Converters 3] (PowerConverters-1.7.10-2.11.jar) 
+	UCHI	primitivemobs{1.0} [Primitive Mobs] (primitivemobs-1.0c-1.7.10.jar) 
+	UCHI	Treecapitator{1.7.10} [Treecapitator] (Tree-Capitator-Mod-1.7.10.jar) 
+	UCHI	VanillaPlus{1.4.4} [VanillaPlus] (VanillaPlus-1.7.10-1.4.4.jar) 
+	UD	MineFactoryReloaded|CompatAppliedEnergistics{1.7.10R2.8.2B1} [MFR Compat: Applied Energistics] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	UD	MineFactoryReloaded|CompatAtum{1.7.10R2.8.2B1} [MFR Compat: Atum] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	UD	MineFactoryReloaded|CompatBackTools{1.7.10R2.8.2B1} [MFR Compat: BackTools] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	UD	MineFactoryReloaded|CompatChococraft{1.7.10R2.8.2B1} [MFR Compat: Chococraft] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	UD	MineFactoryReloaded|CompatExtraBiomes{1.7.10R2.8.2B1} [MFR Compat: ExtraBiomes] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	UD	MineFactoryReloaded|CompatForestry{1.7.10R2.8.2B1} [MFR Compat: Forestry] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	UD	MineFactoryReloaded|CompatProjRed{1.7.10R2.8.2B1} [MFR Compat ProjectRed] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	UD	MineFactoryReloaded|CompatRailcraft{1.7.10R2.8.2B1} [MFR Compat: Railcraft] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	UD	MineFactoryReloaded|CompatSufficientBiomes{1.7.10R2.8.2B1} [MFR Compat: Sufficient Biomes] (MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar) 
+	CoFHCore: -[1.7.10]3.1.4-329
+	ThermalFoundation: -[1.7.10]1.2.6-118
+	ThermalExpansion: -[1.7.10]4.1.5-248
+	Mantle Environment: Environment healthy.
+	MineFactoryReloaded: -[1.7.10]2.8.2B1-201
+	TConstruct Environment: Environment healthy.
+	NetherOres: -[1.7.10]2.3.2B1-25
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)

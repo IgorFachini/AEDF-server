@@ -1,0 +1,36 @@
+[01:09:10] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[01:09:27] [Server thread/INFO]: Loading properties
+[01:09:27] [Server thread/INFO]: Default game type: SURVIVAL
+[01:09:27] [Server thread/INFO]: Generating keypair
+[01:09:28] [Server thread/INFO]: Starting Minecraft server on 192.168.1.104:25565
+[01:09:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:09:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:09:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:09:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:09:34] [Server thread/INFO]: Preparing level "world"
+[01:09:37] [Server thread/INFO]: Preparing start region for level 0
+[01:09:37] [Server thread/ERROR]: Encountered an unexpected exception
+java.lang.NullPointerException
+	at net.minecraft.nbt.NBTTagCompound.func_152449_a(NBTTagCompound.java:398) ~[dh.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_152446_a(NBTTagCompound.java:52) ~[dh.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_152449_a(NBTTagCompound.java:398) ~[dh.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_152446_a(NBTTagCompound.java:52) ~[dh.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_152449_a(NBTTagCompound.java:398) ~[dh.class:?]
+	at net.minecraft.nbt.NBTTagCompound.func_152446_a(NBTTagCompound.java:52) ~[dh.class:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_152455_a(CompressedStreamTools.java:170) ~[du.class:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_152456_a(CompressedStreamTools.java:125) ~[du.class:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74794_a(CompressedStreamTools.java:120) ~[du.class:?]
+	at net.minecraft.world.chunk.storage.AnvilChunkLoader.loadChunk__Async(AnvilChunkLoader.java:121) ~[aqk.class:?]
+	at net.minecraftforge.common.chunkio.ChunkIOProvider.callStage1(ChunkIOProvider.java:20) ~[ChunkIOProvider.class:?]
+	at net.minecraftforge.common.chunkio.ChunkIOProvider.callStage1(ChunkIOProvider.java:12) ~[ChunkIOProvider.class:?]
+	at net.minecraftforge.common.util.AsynchronousExecutor.skipQueue(AsynchronousExecutor.java:343) ~[AsynchronousExecutor.class:?]
+	at net.minecraftforge.common.util.AsynchronousExecutor.getSkipQueue(AsynchronousExecutor.java:302) ~[AsynchronousExecutor.class:?]
+	at net.minecraftforge.common.chunkio.ChunkIOExecutor.syncChunkLoad(ChunkIOExecutor.java:12) ~[ChunkIOExecutor.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:126) ~[ms.class:?]
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101) ~[ms.class:?]
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:265) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:235) ~[MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:258) ~[lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[01:09:37] [Server thread/ERROR]: This crash report has been saved to: C:\recanto\sv2\.\crash-reports\crash-2019-01-16_01.09.37-server.txt
