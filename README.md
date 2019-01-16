@@ -16,12 +16,12 @@ Após baixar e rodar pelo menos uma vez o Shinigama Launcher, fechar o Shinigama
 
 Após finalizado, abrir o Shinigama Launcher, em Edit Profile
 deixar marcado as opçóes 
-- User version
-1.7.10-Forge ( Ou algo parecido)
-- JVM Arguments
-ATIVADO, contendo os parámetros
-`-Xmx1G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M`
-(Esses parámetros ja vem por padráo, mas caso náo venha, colocar....).
+- User version: 
+  1.7.10-Forge ( Ou algo parecido)
+- JVM Arguments: 
+  ATIVADO, contendo os parámetros
+  `-Xmx1G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M`
+  (Esses parámetros ja vem por padráo, mas caso náo venha, colocar....).
 
 ## Instalando Mods, Os mods necessarios para conseguir entrar no servidor
 
@@ -33,3 +33,7 @@ Pronto!!!, so iniciar o minecraft.
 
 ### EXTRAS, mod para mapa e vida dos mobs no seu cliente.
 Nesse repositorio, em `Server 1.7.10` contem a pasta `modsClient`, com dois arquivos, basta copiar esses 2 arquivos para dentro `.minecraft/mods/1.7.10` do seu computador para habilitar o mapa e vida dos mobs.
+
+# OBS
+
+Quando iniciar o Launcher com os mods, náo fique clicando na Janela, ele trava sim para alguns, mas logo volta.
